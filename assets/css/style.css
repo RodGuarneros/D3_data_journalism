@@ -29,3 +29,32 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+body, .svg{
+  padding-bottom: 80px;
+}
+
+
+.chart::before {
+  position: absolute;
+  top: 160px;
+  left: 240px;
+  z-index: -1;
+  display: block;
+  width: 400px;
+  height: 300px;
+  content: " ";
+  background-image: url("/static/image/E.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+  opacity: 0.3;
+}
+
+.tooltip{
+  color: #e3e3e3;
+}
+
+.circles::hover{
+  fill:green;
+}
