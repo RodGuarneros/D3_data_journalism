@@ -44,7 +44,7 @@ body, .svg{
   width: 400px;
   height: 300px;
   content: " ";
-  background-image: url("/static/image/E.jpg");
+  background-image: url("E.jpg");
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;

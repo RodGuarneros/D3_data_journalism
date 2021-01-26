@@ -166,7 +166,7 @@ circlesGroup.call(toolTip);
 }
 
 // Step 3: Import data from the csv file and get every variable
-d3.csv("/static/data/data.csv").then(db=>{
+d3.csv("data.csv").then(db=>{
         console.log(db)
         db.forEach(function(data) {
             data.age = +data.age;
