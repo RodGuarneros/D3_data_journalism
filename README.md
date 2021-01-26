@@ -18,8 +18,9 @@ The visualization result and analysis is available at:
 
 ## References for this analysis
 
-https://d3js.org/
-https://stackoverflow.com/questions/22523204/how-to-set-text-color-for-my-d3-chart-title
-https://bost.ocks.org/mike/circles/
-https://www.d3-graph-gallery.com/graph/circularpacking_basic.html
-https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
+- https://d3js.org/
+- https://stackoverflow.com/questions/13615381/d3-add-text-to-circle
+- https://stackoverflow.com/questions/22523204/how-to-set-text-color-for-my-d3-chart-title
+- https://bost.ocks.org/mike/circles/
+- https://www.d3-graph-gallery.com/graph/circularpacking_basic.html
+- https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
