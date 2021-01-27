@@ -14,7 +14,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 The visualization result and analysis is available at: 
 
 # The result
-![Newsroom](https://github.com/RodGuarneros/D3_data_journalism/blob/master/static/image/ScreenRodGuarneros.jpg)
+This is available at: https://rodguarneros.github.io/D3_data_journalism/
+![Newsroom](https://github.com/RodGuarneros/D3_data_journalism/blob/master/ScreenRodGuarneros.jpg)
 
 ## References for this analysis
 
